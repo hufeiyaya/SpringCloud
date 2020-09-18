@@ -58,6 +58,8 @@
         <module>euraka-client</module>
         <module>euraka-client2</module>
         <module>service-ribbon</module>
+        <module>sevice-feign</module>
+        <module>service-zuul</module>
     </modules>
 
 
